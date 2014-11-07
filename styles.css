@@ -8,16 +8,26 @@
 #nav {
     line-height:40px;
     background-color:#eeeeee;
-    height:400px;
+    height:550px;
     width:150px;
     float:left;
     padding:10px; 
+    text-align:center;
+}
+
+#setting {
+	position:relative;
+	margin-top:120%;
+}
+
+#add {
+	position:relative;
+	margin-top:100%;	
 }
 
 table, th, td {
-    border: 1px solid black;
+    border: 2px solid black;
     border-collapse: collapse;
-
 }
 
 #table td{
@@ -31,14 +41,16 @@ table, th, td {
 
 .time {
 	width: 20px;
+	text-align:center;
 }
 
 .rating {
 	width: 80px;
+	text-align:center;
 }
 
 .location {
-	width: 80px;
+	width: 120px;
 }
 
 #footer {
