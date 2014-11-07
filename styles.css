@@ -7,3 +7,7 @@ table, th, td {
 	width: 100px;
 	padding: 15px;
 }
+
+#header {
+	background-color: #B60A04;
+}
