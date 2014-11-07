@@ -2,26 +2,43 @@
     background-color:black;
     color:white;
     text-align:center;
-    padding:5px;
+    padding:15px;
 }
 
 #nav {
-    line-height:30px;
+    line-height:40px;
     background-color:#eeeeee;
-    height:300px;
-    width:100px;
+    height:400px;
+    width:150px;
     float:left;
-    padding:5px; 
+    padding:10px; 
 }
 
 table, th, td {
     border: 1px solid black;
     border-collapse: collapse;
+
 }
 
 #table td{
-	width: 100px;
+	width: 150px;
 	padding: 15px;
+}
+
+.name {
+	width: 40px;
+}
+
+.time {
+	width: 20px;
+}
+
+.rating {
+	width: 80px;
+}
+
+.location {
+	width: 80px;
 }
 
 #footer {
@@ -29,6 +46,6 @@ table, th, td {
     color:white;
     clear:both;
     text-align:center;
-    padding:5px; 
+    padding:10px; 
 }
 
