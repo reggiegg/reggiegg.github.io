@@ -1,3 +1,19 @@
+#header {
+    background-color:black;
+    color:white;
+    text-align:center;
+    padding:5px;
+}
+
+#nav {
+    line-height:30px;
+    background-color:#eeeeee;
+    height:300px;
+    width:100px;
+    float:left;
+    padding:5px; 
+}
+
 table, th, td {
     border: 1px solid black;
     border-collapse: collapse;
@@ -8,6 +24,11 @@ table, th, td {
 	padding: 15px;
 }
 
-#header {
-	background-color: #B60A04;
+#footer {
+    background-color:black;
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:5px; 
 }
+
