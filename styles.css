@@ -15,14 +15,16 @@
     text-align:center;
 }
 
-#setting {
-	position:relative;
-	margin-top:120%;
+#add {
+	position:absolute;
+	bottom: 5%;	
+	left:10px;
 }
 
-#add {
-	position:relative;
-	margin-top:100%;	
+#setting {
+	position:absolute;
+	bottom: 5%;
+	left: 170px;
 }
 
 table, th, td {
